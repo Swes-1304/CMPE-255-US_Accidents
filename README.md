@@ -1,7 +1,29 @@
-# Team Project 
+# CMPE 255 Data Mining Team Project 
 
-[Workbook](https://github.com/narensulegai/project-255/blob/main/FinalNotebook.ipynb)
+## DATA ANALYSIS AND PREDICTION OF SEVERITY OF AUTOMOBILE ACCIDENTS IN US
+
+Under the guidance of 
+
+Professor Jorjeta Jetcheva
+San Jose State University
 
 
-The dataset can be downloaded here [US Accidents](https://www.kaggle.com/sobhanmoosavi/us-accidents/download)
+Authors
 
+Akash Singhal - akash.singhal@sjsu.edu
+
+Naren Janardhan Sulegai - narenjanardhan.sulegai@sjsu.edu
+
+Swetha Singi Reddy - swetha.singireddy@sjsu.edu
+
+
+
+## Steps to run the project
+
+1. Clone the repository into your local directory
+2. Download the dataset from [here](https://www.kaggle.com/sobhanmoosavi/us-accidents/download)
+3. Open Jupyter Notebook in the local directory
+4. Execute the code
+
+
+Please reachout to us for any questions or comments. Thank you!
