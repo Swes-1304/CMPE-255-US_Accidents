@@ -2,13 +2,13 @@
 
 ## DATA ANALYSIS AND PREDICTION OF SEVERITY OF AUTOMOBILE ACCIDENTS IN US
 
-Under the guidance of 
+**Under the guidance of** 
 
-Professor Jorjeta Jetcheva
-San Jose State University
+-Professor Jorjeta Jetcheva
+-San Jose State University
 
 
-Authors
+**Authors**
 
 Akash Singhal - akash.singhal@sjsu.edu
 
