@@ -4,8 +4,9 @@
 
 **Under the guidance of** 
 
--Professor Jorjeta Jetcheva
--San Jose State University
+Professor Jorjeta Jetcheva
+
+San Jose State University
 
 
 **Authors**
