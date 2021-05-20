@@ -1,4 +1,4 @@
-# CMPE 255 Data Mining Team Project 
+# CMPE 255 Software Engineering Data Mining Team Project 
 
 ## DATA ANALYSIS AND PREDICTION OF SEVERITY OF AUTOMOBILE ACCIDENTS IN US
 
